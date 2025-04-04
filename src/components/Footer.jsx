@@ -25,7 +25,7 @@ function Footer() {
             <p className='mb-2'>Bootswatch</p>
           </div>
 
-          <div className='col-md-4 ms-5 flex-column'>
+          <div className='col-md-4  flex-column'>
             <h3>Contact Us</h3>
             <div className='d-flex'>
               <input type="text" placeholder='Enter your email here....' className='form-control' style={{ width: '340px' }} />
